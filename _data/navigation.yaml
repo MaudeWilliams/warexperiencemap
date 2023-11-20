@@ -1,0 +1,17 @@
+primary:
+  links:
+    - title: index
+      href: /
+    - title: project
+      href: /project/
+    - title: people
+      href: /people/
+    - title: publications
+      href: /publications/
+    - title: blog
+      follow: post
+      href: /blog/
+    - title: podcast
+      follow: audiopost
+      href: /podcast/
+    
